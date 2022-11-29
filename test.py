@@ -5,3 +5,4 @@ b = t.tensor([5.0,6.0]).reshape(-1, 1)
 print(a)
 c = a + b
 print(c)
+==
